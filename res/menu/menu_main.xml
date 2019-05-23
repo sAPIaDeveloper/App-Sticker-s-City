@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.desarrolladorgmail.a.jose.stickerscity.Activities.MainActivity">
+    <item
+        android:id="@+id/borraFav"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/borrarGuardado"
+        android:orderInCategory="100"
+        android:title="@string/borrarSave"
+        app:showAsAction="never" />
+</menu>
